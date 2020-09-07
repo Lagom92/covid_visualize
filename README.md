@@ -10,7 +10,7 @@
 
 기간: 9월 2일 ~ 9월 9일까지
 
-팀원: 
+팀원: 김진혁, 김주연, 양시영, 정진균, 최준범
 
 
 
@@ -18,10 +18,11 @@
 
 ### Repository
 
-- note
+note
 
-- input
-- output
+input
+
+output
 
 
 
